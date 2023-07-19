@@ -4,7 +4,7 @@
 A fitness website with modern UI/UX, made using React.js, Tailwind CSS, ExerciseDB Api and Youtube Search Api. You can find these both APIs on [Rapid API](https://rapidapi.com/hub). 
 ## Demo
 
-[Live Demo](https://js-golds-gym.netlify.app/)
+[Live Demo](https://fitness-golds-gym.netlify.app/)
 
 
 ## Features⚡
